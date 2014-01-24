@@ -1,5 +1,5 @@
 {
-  "name": "hubot-replygif",
+  "name": "hubot-reaction",
   "description": "A hubot script for replygif.net",
   "version": "0.0.1",
   "author": "Jake Swanson <jakswa@gmail.com>",
